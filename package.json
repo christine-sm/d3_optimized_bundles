@@ -1,0 +1,23 @@
+{
+  "name": "d3_optimized_bundles",
+  "version": "1.0.0",
+  "description": "Building a bundle of optimized D3 4.0 bundles à la https://bl.ocks.org/mbostock/bb09af4c39c79cffcde4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmmovius/d3_optimized_bundles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmmovius/d3_optimized_bundles/issues"
+  },
+  "homepage": "https://github.com/cmmovius/d3_optimized_bundles#readme",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1"
+  }
+}
